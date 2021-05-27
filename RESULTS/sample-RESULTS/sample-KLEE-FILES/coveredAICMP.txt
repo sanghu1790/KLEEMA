@@ -1,0 +1,16 @@
+Function: calculate_outputm56 Block Order: 1  %4 = icmp eq i32 %3, 6, !dbg !147
+Function: calculate_outputm56 Block Order: 2  %7 = icmp eq i32 %6, 1, !dbg !147
+Function: calculate_outputm56 Block Order: 3  %10 = icmp eq i32 %9, 1, !dbg !147
+Function: calculate_outputm56 Block Order: 4  %13 = icmp eq i32 %12, 34, !dbg !147
+Function: calculate_outputm56 Block Order: 5  %16 = icmp eq i32 %15, 1, !dbg !147
+Function: calculate_outputm3 Block Order: 8  %5 = icmp eq i32 %4, 1, !dbg !148
+Function: calculate_outputm3 Block Order: 9  %8 = icmp eq i32 %7, 1, !dbg !148
+Function: calculate_output Block Order: 12  %4 = icmp eq i32 %3, 1, !dbg !148
+Function: calculate_output Block Order: 13  %7 = icmp eq i32 %6, 34, !dbg !148
+Function: calculate_output Block Order: 15  %14 = icmp eq i32 %13, 1, !dbg !154
+Function: main Block Order: 19  %5 = icmp slt i32 %4, 4, !dbg !149
+Function: main Block Order: 20  %11 = icmp ne i32 %10, 5, !dbg !155
+Function: main Block Order: 21  %14 = icmp ne i32 %13, 1, !dbg !155
+Function: main Block Order: 22  %17 = icmp ne i32 %16, 3, !dbg !155
+Function: main Block Order: 23  %20 = icmp ne i32 %19, 2, !dbg !155
+Function: main Block Order: 24  %23 = icmp ne i32 %22, 4, !dbg !155

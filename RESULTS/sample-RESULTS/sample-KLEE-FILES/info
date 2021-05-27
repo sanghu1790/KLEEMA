@@ -1,0 +1,36 @@
+/home/sanghu/TracerX/tracerx/Release+Asserts/bin/klee --max-memory=30000 --max-time=600 --watchdog --search=random-path --search=nurs:covnew -write-BB-cov=4 -debug-print-instructions=all:file -emit-all-errors-in-same-path=true sample.bc
+PID: 17721
+Started: 2021-05-27 09:16:53
+BEGIN searcher description
+<InterleavedSearcher> containing 2 searchers:
+RandomPathSearcher
+WeightedRandomSearcher::CoveringNew
+</InterleavedSearcher>
+END searcher description
+KLEE: done: Total number of single time Visited Basic Blocks: 17
+KLEE: done: Total number of Basic Blocks: 29
+KLEE: done: Total number of Covered ICMP/Atomic Condition: 9
+KLEE: done: Total number of All ICMP/Atomic Conditions 16
+Finished: 2021-05-27 09:16:55
+Elapsed: 00:00:02
+KLEE: done: explored paths = 781
+KLEE: done: avg. constructs per query = 30
+KLEE: done: total queries = 37
+KLEE: done: valid queries = 0
+KLEE: done: invalid queries = 37
+KLEE: done: query cex = 37
+
+KLEE: done: total instructions = 38235
+KLEE: done: completed paths = 781, among which
+KLEE: done:     early-terminating paths (instruction time limit, solver timeout, max-depth reached) = 0
+KLEE: done:     error paths = 0
+KLEE: done:     program exit paths = 781
+KLEE: done: generated tests = 781, among which
+KLEE: done:     early-terminating tests (instruction time limit, solver timeout, max-depth reached) = 0
+KLEE: done:     error tests = 0
+KLEE: done:     program exit tests = 781
+-------------------------------------------------------------------------
+|   Path   |  Instrs|  Time(s)|  ICov(%)|  BCov(%)|  ICount|  TSolver(%)|
+-------------------------------------------------------------------------
+|klee-out-0|   38235|     2.23|    19.53|    15.31|     384|        5.08|
+-------------------------------------------------------------------------

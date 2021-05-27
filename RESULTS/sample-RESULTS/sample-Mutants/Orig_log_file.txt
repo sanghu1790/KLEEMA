@@ -1,0 +1,630 @@
+PNF_Line_30_Pred_1_Cond_PNF_Mutant1
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if(!((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1)))) {
+
+
+CNF_Line_30_Pred_1_Cond_1_Mutant2
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((!(a875425738 == 6 ) && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+CNF_Line_30_Pred_1_Cond_2_Mutant3
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (!( a1631914830 == 1 ) &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+CNF_Line_30_Pred_1_Cond_3_Mutant4
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  !(  cf==1  ) )) && a1137288446 == 34) && (input == 1))) {
+
+
+CNF_Line_30_Pred_1_Cond_4_Mutant5
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && !( a1137288446 == 34 )) && (input == 1))) {
+
+
+CNF_Line_30_Pred_1_Cond_5_Mutant6
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (!( input == 1)))) {
+
+
+ROF_Line_30_Pred_1_Cond_22_Mutant7
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 != 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_22_Mutant8
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 < 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_22_Mutant9
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 > 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_22_Mutant10
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 <= 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_22_Mutant11
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 >= 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant12
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 != 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant13
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 < 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant14
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 > 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant15
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 <= 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant16
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 >= 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant17
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 != 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant18
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 < 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant19
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 > 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant20
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 <= 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant21
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 >= 34) && (input == 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant22
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input != 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant23
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input < 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant24
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input > 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant25
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input <= 1))) {
+
+
+ROF_Line_30_Pred_1_Cond_0_Mutant26
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input >= 1))) {
+
+
+LOF_Line_30_Pred_1_Cond_NOC_Mutant27
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 || (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+LOF_Line_30_Pred_1_Cond_NOC_Mutant28
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 ||  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+
+
+LOF_Line_30_Pred_1_Cond_NOC_Mutant29
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) || a1137288446 == 34) && (input == 1))) {
+
+
+LOF_Line_30_Pred_1_Cond_NOC_Mutant30
+
+==> @ Line: 30
+Original Line  : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) && (input == 1))) {
+After Mutation : if((((a875425738 == 6 && (a1631914830 == 1 &&  cf==1 )) && a1137288446 == 34) || (input == 1))) {
+
+
+PNF_Line_43_Pred_2_Cond_PNF_Mutant31
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if(!((a1631914830 == 1 &&  cf==1 ))) {
+
+
+CNF_Line_43_Pred_2_Cond_6_Mutant32
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((!(a1631914830 == 1 ) &&  cf==1 )) {
+
+
+CNF_Line_43_Pred_2_Cond_7_Mutant33
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((a1631914830 == 1 &&  !(  cf==1 ) )) {
+
+
+ROF_Line_43_Pred_2_Cond_26_Mutant34
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((a1631914830 != 1 &&  cf==1 )) {
+
+
+ROF_Line_43_Pred_2_Cond_26_Mutant35
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((a1631914830 < 1 &&  cf==1 )) {
+
+
+ROF_Line_43_Pred_2_Cond_26_Mutant36
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((a1631914830 > 1 &&  cf==1 )) {
+
+
+ROF_Line_43_Pred_2_Cond_26_Mutant37
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((a1631914830 <= 1 &&  cf==1 )) {
+
+
+ROF_Line_43_Pred_2_Cond_26_Mutant38
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((a1631914830 >= 1 &&  cf==1 )) {
+
+
+LOF_Line_43_Pred_2_Cond_NOC_Mutant39
+
+==> @ Line: 43
+Original Line  : if((a1631914830 == 1 &&  cf==1 )) {
+After Mutation : if((a1631914830 == 1 ||  cf==1 )) {
+
+
+PNF_Line_51_Pred_3_Cond_PNF_Mutant40
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(!(( cf==1  && a1137288446 == 34))) {
+
+
+CNF_Line_51_Pred_3_Cond_8_Mutant41
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( !( cf==1  )  && a1137288446 == 34)) {
+
+
+CNF_Line_51_Pred_3_Cond_9_Mutant42
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( cf==1  && !( a1137288446 == 34))) {
+
+
+ROF_Line_51_Pred_3_Cond_7_Mutant43
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( cf==1  && a1137288446 != 34)) {
+
+
+ROF_Line_51_Pred_3_Cond_7_Mutant44
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( cf==1  && a1137288446 < 34)) {
+
+
+ROF_Line_51_Pred_3_Cond_7_Mutant45
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( cf==1  && a1137288446 > 34)) {
+
+
+ROF_Line_51_Pred_3_Cond_7_Mutant46
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( cf==1  && a1137288446 <= 34)) {
+
+
+ROF_Line_51_Pred_3_Cond_7_Mutant47
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( cf==1  && a1137288446 >= 34)) {
+
+
+LOF_Line_51_Pred_3_Cond_NOC_Mutant48
+
+==> @ Line: 51
+Original Line  : if(( cf==1  && a1137288446 == 34)) {
+After Mutation : if(( cf==1  || a1137288446 == 34)) {
+
+
+PNF_Line_58_Pred_4_Cond_PNF_Mutant49
+
+==> @ Line: 58
+Original Line  : if( cf==1 ) {
+After Mutation : if(!( cf==1 )) {
+
+
+PNF_Line_81_Pred_5_Cond_PNF_Mutant50
+
+==> @ Line: 81
+Original Line  : for (int FLAG=0;FLAG < BOUND;FLAG++) {
+After Mutation : for (int FLAG=0;!(FLAG < BOUND);FLAG++) {
+
+
+Line_81_Pred_5_Cond_11_Mutant51
+
+==> @ Line: 81
+Original Line  : for (int FLAG=0;FLAG < BOUND;FLAG++) {
+After Mutation : for (int FLAG=0;FLAG != BOUND;FLAG++) {
+
+
+Line_81_Pred_5_Cond_11_Mutant52
+
+==> @ Line: 81
+Original Line  : for (int FLAG=0;FLAG < BOUND;FLAG++) {
+After Mutation : for (int FLAG=0;FLAG > BOUND;FLAG++) {
+
+
+Line_81_Pred_5_Cond_11_Mutant53
+
+==> @ Line: 81
+Original Line  : for (int FLAG=0;FLAG < BOUND;FLAG++) {
+After Mutation : for (int FLAG=0;FLAG <= BOUND;FLAG++) {
+
+
+Line_81_Pred_5_Cond_11_Mutant54
+
+==> @ Line: 81
+Original Line  : for (int FLAG=0;FLAG < BOUND;FLAG++) {
+After Mutation : for (int FLAG=0;FLAG >= BOUND;FLAG++) {
+
+
+Line_81_Pred_5_Cond_11_Mutant55
+
+==> @ Line: 81
+Original Line  : for (int FLAG=0;FLAG < BOUND;FLAG++) {
+After Mutation : for (int FLAG=0;FLAG == BOUND;FLAG++) {
+
+
+PNF_Line_90_Pred_6_Cond_PNF_Mutant56
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if(!((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4))) {
+
+
+CNF_Line_90_Pred_6_Cond_12_Mutant57
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((!(symb != 5 )) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+CNF_Line_90_Pred_6_Cond_13_Mutant58
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (!( symb != 1 )) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+CNF_Line_90_Pred_6_Cond_14_Mutant59
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (!( symb != 3 )) && (symb != 2) && (symb != 4)) {
+
+
+CNF_Line_90_Pred_6_Cond_15_Mutant60
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (!( symb != 2 )) && (symb != 4)) {
+
+
+CNF_Line_90_Pred_6_Cond_16_Mutant61
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (!( symb != 4))) {
+
+
+ROF_Line_90_Pred_6_Cond_29_Mutant62
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb == 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_29_Mutant63
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb < 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_29_Mutant64
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb > 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_29_Mutant65
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb <= 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_29_Mutant66
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb >= 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant67
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb == 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant68
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb < 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant69
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb > 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant70
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb <= 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant71
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb >= 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant72
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb == 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant73
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb < 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant74
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb > 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant75
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb <= 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant76
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb >= 3) && (symb != 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant77
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb == 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant78
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb < 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant79
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb > 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant80
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb <= 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant81
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb >= 2) && (symb != 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant82
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb == 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant83
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb < 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant84
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb > 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant85
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb <= 4)) {
+
+
+ROF_Line_90_Pred_6_Cond_11_Mutant86
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb >= 4)) {
+
+
+LOF_Line_90_Pred_6_Cond_NOC_Mutant87
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) || (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+LOF_Line_90_Pred_6_Cond_NOC_Mutant88
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) || (symb != 3) && (symb != 2) && (symb != 4)) {
+
+
+LOF_Line_90_Pred_6_Cond_NOC_Mutant89
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) || (symb != 2) && (symb != 4)) {
+
+
+LOF_Line_90_Pred_6_Cond_NOC_Mutant90
+
+==> @ Line: 90
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) || (symb != 4)) {
+
+

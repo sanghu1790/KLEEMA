@@ -1,0 +1,5 @@
+
+==> @ Line: 90
+
+Original Line  : if((symb != 5) && (symb != 1) && (symb != 3) && (symb != 2) && (symb != 4)) {
+After Mutation : if((symb != 5) && (symb != 1) && (symb != 3) && (symb < 2) && (symb != 4)) {
